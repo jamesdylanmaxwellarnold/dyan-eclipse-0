@@ -20,7 +20,7 @@ public class CrazyCatLady {
 		}
 		// 5. If they say 0, show them a video of A Frog Sitting on a Bench Like a Human
 		else if(num>=0) 
-			{playVideo("https://www.youtube.com/watch?v=zaDJ_eNDRXA");
+			{playVideo("https://www.youtube.com/watch?v=zaDJ_eNDRXA");}
 	}
 
 	static void playVideo(String videoURL) {
